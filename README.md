@@ -11,7 +11,7 @@
   - challenging projects
   
 - 📫 How to reach me
-  - connor.sindt@uiowa.edu
+  - connor-sindt@uiowa.edu
 
 <!---
 cjsindt/cjsindt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
