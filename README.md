@@ -2,10 +2,10 @@
 - 👀 I’m interested in 
   - Bioinformatics 🦠
   - ML/AI 🧠
-  - Full-Stack Development
+  - Embedded Systems
   
 - 🌱 I’m currently learning
-  - c#/ASP.net
+  - C
   
 - 💞️ I’m looking to collaborate on
   - challenging projects
