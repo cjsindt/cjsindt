@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cjsindt
 - 👀 I’m interested in 
   - Bioinformatics 🦠
-  - ML/AI 🧠
   - Embedded Systems
   
 - 🌱 I’m currently learning
@@ -11,7 +10,7 @@
   - challenging projects
   
 - 📫 How to reach me
-  - connor-sindt@uiowa.edu
+  - connor-sindt@gmail.com
 
 <!---
 cjsindt/cjsindt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
