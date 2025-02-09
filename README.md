@@ -10,7 +10,7 @@
   - challenging projects
   
 - 📫 How to reach me
-  - connor-sindt@gmail.com
+  - connor.sindt@gmail.com
 
 <!---
 cjsindt/cjsindt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
