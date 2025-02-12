@@ -1,3 +1,8 @@
+esc
+esc
+esc
+i
+
 - 👋 Hi, I’m @cjsindt
 - 👀 I’m interested in 
   - Bioinformatics 🦠
@@ -19,3 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 hjkl enjoyer
 
+esc
+esc
+esc
+esc
+:wq
