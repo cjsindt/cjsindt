@@ -31,3 +31,5 @@ esc
 esc
 esc
 :wq
+
+![fish-spin-sha](https://github.com/user-attachments/assets/9df75d13-358c-4b25-98b8-f491f408c796)
