@@ -10,6 +10,8 @@ i
   
 - 🌱 I’m currently learning
   - C
+  - C++
+  - rust
   
 - 💞️ I’m looking to collaborate on
   - challenging projects
